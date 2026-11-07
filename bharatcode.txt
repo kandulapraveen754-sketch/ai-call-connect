@@ -1,0 +1,10 @@
+Project Name: AI CallConnect
+
+AI-powered Android voice assistant.
+
+Features:
+- Voice-based contact calling
+- AI question answering
+- App launching
+- WhatsApp assistance
+- Notes and reminders
